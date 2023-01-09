@@ -1,6 +1,6 @@
 # Stevie-s-Portfolio
 Data Analytics Portfolio
-# Project 1: Creating a fake clothing store database and running some Select statements on it in SQL.
+# Project 1: Creating a store database
 CREATE TABLE clothing (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, price INTEGER, gender INTEGER);
 INSERT INTO clothing VALUES (1, "t shirt", 18, 7, 1);
 INSERT INTO clothing VALUES (2, "long sleeve", 12, 8, 1);
