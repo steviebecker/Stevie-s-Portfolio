@@ -81,3 +81,6 @@ https://docs.google.com/spreadsheets/d/1qmelkhFcNu170HMH0cWzOtiqoB2k4nuMKaaPdy7H
 # Project 5: Bellabeat Case Study from Google Data Analysis course
 Informational doc: https://docs.google.com/document/d/1fqSi0C1abOZ0qufkJyoKJB5XOG4_cbzIhUJhBoGjE3k/edit
 Rstudio code: https://posit.cloud/content/4668477
+# Project 6: Tableau Netflix Project:
+Dataset: (https://www.kaggle.com/code/chirag907...)
+Project: (https://public.tableau.com/app/profile/stevie.becker/viz/Netflixportfolioproject/Netflix)
