@@ -84,3 +84,4 @@ Rstudio code: https://posit.cloud/content/4668477
 # Project 6: Tableau Netflix Project:
 Dataset: (https://www.kaggle.com/code/chirag907...)
 Project: (https://public.tableau.com/app/profile/stevie.becker/viz/Netflixportfolioproject/Netflix)
+# Project 7-10: Guided projects from Coursera: Working with BigQuery, Getting started with R, Getting started with PowerBI desktop, and Exploratory Data Analysis with Python and Pandas.
